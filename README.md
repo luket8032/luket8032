@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, i'm Luke!
+
+<div align="center>
+  🔭 I’m currently working on a making a memory game with React!
+</div>
 
 <!--
 **luket8032/luket8032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
