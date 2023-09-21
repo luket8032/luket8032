@@ -7,7 +7,7 @@
 <p>📫 How to reach me: luket8032@hotmail.com</p>
 
 <h2>About Me</h2>
-<p>I recently graduated from the University of Houston with a B.S in Computer Information Systems.</p>
+<p>I recently graduated from the University of Houston with a B.S in Computer Information Systems. Since i've graduated, I have been working on my skills as a full-stack developer. Check out some of my work here: https://luket8032.github.io/portfolio/ or check out my github! I am currently looking for an oppurtunity to work and put my skills to use. Please contact me at luket8032@hotmail.com! </p>
 
 <!--
 **luket8032/luket8032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
