@@ -1,9 +1,10 @@
 ### Hi there 👋, i'm Luke!
-🔭 I’m currently working on a **memory game React App**
+
+<p>🔭 I’m currently working on a **memory game React App**</p>
 <br/>
-🌱 I’m currently learning **Angular, Next.js, and SASS**
+<p>🌱 I’m currently learning **Angular, Next.js, and SASS**</p>
 <br/>
-📫 How to reach me: luket8032@hotmail.com
+<p>📫 How to reach me: luket8032@hotmail.com</p>
 
 <h2>About Me</h2>
 <p>I recently graduated from the University of Houston with a B.S in Computer Information Systems.</p>
