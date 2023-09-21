@@ -1,9 +1,7 @@
 ### Hi there 👋, i'm Luke!
 
 <p>🔭 I’m currently working on a **memory game React App**</p>
-<br/>
 <p>🌱 I’m currently learning **Angular, Next.js, and SASS**</p>
-<br/>
 <p>📫 How to reach me: luket8032@hotmail.com</p>
 
 <h2>About Me</h2>
