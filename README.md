@@ -1,6 +1,6 @@
 ### Hi there 👋, i'm Luke!
 
-<p>🔭 I’m currently working on a <strong>memory game React App></strong></p>
+<p>🔭 I’m currently working on a <strong>memory game React App</strong></p>
 <p>🌱 I’m currently learning <strong>Angular, Next.js, and SASS</strong></p>
 <p>📫 How to reach me: <strong>luket8032@hotmail.com</strong></p>
 
