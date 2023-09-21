@@ -1,6 +1,8 @@
 ### Hi there 👋, i'm Luke!
 🔭 I’m currently working on a **memory game React App**
 
+<h2>About Me</h2>
+<p>I recently graduated from the University of Houston with a B.S in Computer Information Systems.</p>
 
 <!--
 **luket8032/luket8032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
