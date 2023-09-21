@@ -1,8 +1,8 @@
 ### Hi there 👋, i'm Luke!
 
-<p>🔭 I’m currently working on a **memory game React App**</p>
-<p>🌱 I’m currently learning **Angular, Next.js, and SASS**</p>
-<p>📫 How to reach me: luket8032@hotmail.com</p>
+<p>🔭 I’m currently working on a <strong>memory game React App></strong></p>
+<p>🌱 I’m currently learning <strong>Angular, Next.js, and SASS</strong></p>
+<p>📫 How to reach me: <strong>luket8032@hotmail.com</strong></p>
 
 <h2>About Me</h2>
 <p>I recently graduated from the University of Houston with a B.S in Computer Information Systems. Since i've graduated, I have been working on my skills as a full-stack developer. Check out some of my work here: https://luket8032.github.io/portfolio/ or check out my github! I am currently looking for an oppurtunity to work and put my skills to use. Please contact me at luket8032@hotmail.com! </p>
